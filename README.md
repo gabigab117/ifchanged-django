@@ -62,4 +62,3 @@ def post_list(request):
 ```
 
 `{% ifchanged %}` évite tout ça : pas de `groupby`, pas de double boucle, pas de données restructurées.
-# ifchanged-django
